@@ -21,9 +21,9 @@ A hero only attack the other hero. Minion/shaman deals damage to all units.
 Player is defeated when his hero has 0 HP.														
 When a turn finishes, player shall be able to see remaining HP and Attack of all units in the battle.														
 														
-Example:																							
-Assume that player 1 and player 2 have the following hero and cards and player 1 goes first.														
-	Player 1: Butcher, 2 Ragnaros, 2 Bloodmage, 4 Flametongue, 1 Brawl, 1 Techies													
+Example:
+Assume that player 1 and player 2 have the following hero and cards and player 1 goes first.
+	Player 1: Butcher, 2 Ragnaros, 2 Bloodmage, 4 Flametongue, 1 Brawl, 1 Techies
 	Player 2: Slark, 1 Ragnaros, 2 Bloodmage, 4 Flametongue, 1 Brawl, 2 Techies													
 Turn 0 (Game start):														
 	Board: Empty													
