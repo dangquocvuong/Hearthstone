@@ -20,7 +20,9 @@ When an unit has 0 HP, it's removed from the battle, player lose that card.
 A hero only attack the other hero. Minion/shaman deals damage to all units.														
 Player is defeated when his hero has 0 HP.														
 When a turn finishes, player shall be able to see remaining HP and Attack of all units in the battle.														
-														
+
+Every 2 turns, the player receives a random card from the board.					
+
 Example:
 Assume that player 1 and player 2 have the following hero and cards and player 1 goes first.
 	Player 1: Butcher, 2 Ragnaros, 2 Bloodmage, 4 Flametongue, 1 Brawl, 1 Techies
@@ -75,4 +77,5 @@ Turn 11, player 1 actives Techies: Butcher reduces Slark by 6 HP, Techies is add
 	Player 2: 25HP (2 Bloodmage, 1 Flametongue, 1 Brawl, 1 Techies)													
 Game continues...														
 Note: You should find a way to print the output in an easy-to-read format
+				
 -----------------------------------------------------------------------------------------------------------------
