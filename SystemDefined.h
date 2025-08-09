@@ -1,6 +1,6 @@
 #pragma once
 #pragma once
-enum PlayerStatus {
+enum Status {
 	WINNER = 1,
 	LOSER = 2,
 	NA = 0
